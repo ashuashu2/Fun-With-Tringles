@@ -1,7 +1,7 @@
 var angle1 = document.querySelector("#angle-1");
 var angle2 = document.querySelector("#angle-2");
 var angle3 = document.querySelector("#angle-3");
-var tringleButton = document.querySelector("#is-tringle");
+var tringleButton = document.querySelector(".is-tringle");
 var outputBox= document.querySelector(".output-box");
 
 function calculateSumOfAngles(angle1,angle2,angle3){
