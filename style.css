@@ -1,0 +1,300 @@
+body{
+    background-color: rgb(155, 68, 33);
+    
+
+    
+    text-align: center;
+}
+
+.input-side{
+    display: block;
+    margin: auto;
+    width: 25%;
+    padding: 0.3rem;
+    border-color: darkslateblue;
+    height: 5vh;
+   
+   }
+
+
+
+
+
+label{
+    font-size: xx-large;
+    display: block;
+    padding-top: 1rem;
+}
+button{
+    font-size: large;
+    margin-top: 0.3rem;
+    border-color: darkslateblue;
+    cursor: pointer;
+}
+.output-box{
+    
+font-size: xx-large;
+margin-top: 1rem;
+font-weight: bolder;
+}
+nav{
+    font-style: oblique;
+}
+li{
+    font-size: x-large;
+    display: inline;
+    padding: 1rem;
+    background-color: rgb(15, 12, 9);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.side-input{
+    display: block;
+    margin: auto;
+    width: 25%;
+    padding: 0.3rem;
+    border-color: darkslateblue;
+    height: 5vh;
+   
+   
+
+}
+
+
+
+
+
+
+
+label{
+    font-size: xx-large;
+
+    display: block;
+    padding-top: 1rem;
+}
+button{
+    font-size: large;
+    margin-top: 0.3rem;
+    border-color: darkslateblue;
+    cursor: pointer;
+}
+
+.output-box{
+    
+font-size: xx-large;
+margin-top: 1rem;
+font-weight: bolder;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+h1{
+    font-weight: lighter;
+  margin-top: 3rem;
+    font-weight: bolder;
+   font-size: xx-large;
+}
+#angle-1{
+    display: block;
+    margin: auto;
+    width: 25%;
+    padding: 0.3rem;
+    border-color: darkslateblue;
+    height: 5vh;
+   
+   
+
+}
+#angle-2{
+    display: block;
+    margin: auto;
+    width: 25%;
+    padding: 0.3rem;
+    border-color: darkslateblue;
+    height: 5vh;
+   
+
+}
+
+#angle-3{
+    display: block;
+    margin: auto;
+    width: 25%;
+    padding: 0.3rem;
+    border-color: darkslateblue;
+    height: 5vh;
+    
+   
+
+}
+
+label{
+    font-size: xx-large;
+
+    display: block;
+    padding-top: 1rem;
+}
+button{
+    font-size: large;
+    margin-top: 0.3rem;
+    border-color: darkslateblue;
+    cursor: pointer;
+}
+
+.output-box{
+    
+font-size: xx-large;
+margin-top: 1rem;
+font-weight: bolder;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.question-1{
+    display: block;
+    margin: auto;
+    width: 25%;
+    padding: 0.3rem;
+    border-color: darkslateblue;
+    
+   
+   
+}
+
+.question-2{
+    display: block;
+    margin: auto;
+    width: 25%;
+    padding: 0.3rem;
+    border-color: darkslateblue;
+   
+   
+}
+
+.question-3{
+    display: block;
+    margin: auto;
+    width: 25%;
+    padding: 0.3rem;
+    border-color: darkslateblue;
+   
+   
+}
+
+.question-4{
+    display: block;
+    margin: auto;
+    width: 25%;
+    padding: 0.3rem;
+    border-color: darkslateblue;
+   
+   
+}
+
+.question-5{
+    display: block;
+    margin: auto;
+    width: 25%;
+    padding: 0.3rem;
+    border-color: darkslateblue;
+   
+   
+}
+
+
+
+
+
+label{
+    font-size: xx-large;
+
+    display: block;
+    padding-top: 1rem;
+}
+button{
+    font-size: large;
+    margin-top: 0.3rem;
+    border-color: darkslateblue;
+    cursor: pointer;
+}
+
+.output-box{
+    
+font-size: xx-large;
+margin-top: 1rem;
+font-weight: bolder;
+font-size: x-large;
+margin: 1rem;
+
+}
+
+p{
+    font-size: x-large;
+    font-weight: bolder;
+}
+.des{
+    font-size: xx-large;
+}
+
+
+
