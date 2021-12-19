@@ -295,6 +295,15 @@ p{
 .des{
     font-size: xx-large;
 }
+.cell{
+    font-size:x-large;
+    margin-top: 3rem;
+    background-color: aliceblue;
+    border-radius: 5rem;
+  border-style: inset;
+
+}
+
 
 
 
