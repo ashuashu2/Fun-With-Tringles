@@ -19,6 +19,7 @@ function submitButtonHandler() {
     let score = 0 ;
     let index = 0 ;
     var formResults = new FormData(quizForm);
+    
     for (let value of formResults.values()){
         if (value===correctAnswers[index]){
             score = score + 1;

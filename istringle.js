@@ -11,11 +11,20 @@ function calculateSumOfAngles(angle1,angle2,angle3){
 
 function tringleButtonHandler(){
     var sumOfAngles = calculateSumOfAngles (Number(angle1.value),Number(angle2.value),Number(angle3.value));
-    if (sumOfAngles === 180 ){
-        outputBox.innerText = "Yes, that angles form a tringle"
+
+    if(sumOfAngles){
+        if (sumOfAngles === 180 ){
+            outputBox.innerText = "Yes, that angles form a tringle"
+        }else{
+            outputBox.innerText = "Sorry, that angles don't form a tringle"
+        }
+
     }else{
-        outputBox.innerText = "Sorry, that angles don't form a tringle"
+        outputBox.innerText = "Please Enter All The Feilds"
     }
+     
+    
+
 }
 
 

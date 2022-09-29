@@ -10,8 +10,17 @@ function calculateSumOfSquares (a,b){
 
 function calculateButtonHandler(){
     var sumOfSquares =  calculateSumOfSquares(Number(inputSide[0].value),Number(inputSide[1].value));
-    var lengthOfHypotenuse = Math.sqrt(sumOfSquares);
+    if(sumOfSquares){
+
+        var lengthOfHypotenuse = Math.sqrt(sumOfSquares);
     outputBox.innerText= "The length of hypotenuse is " + lengthOfHypotenuse
+
+    }else{
+        outputBox.innerText= "Please Enter Both The Feilds "
+
+    }
+
+    
 }
 
 
